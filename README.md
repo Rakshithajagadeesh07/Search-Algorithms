@@ -100,13 +100,14 @@ else:
 
 ```
 ## Sample Input and Output :
-# Use a linear search method to match the item in a list.
+
+### Use a linear search method to match the item in a list.
 
 ![Output](<Screenshot 2024-04-13 210733.png>)
-# Find the element in a list using Binary Search(Iterative Method).
+### Find the element in a list using Binary Search(Iterative Method).
 
 ![Output](<Screenshot 2024-04-13 210814.png>)
-# Find the element in a list using Binary Search (recursive Method).
+### Find the element in a list using Binary Search (recursive Method).
 
 ![Output](<Screenshot 2024-04-13 210907.png>)
 
